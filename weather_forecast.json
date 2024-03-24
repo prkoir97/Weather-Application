@@ -1,0 +1,58 @@
+[
+    {
+        "date": "Saturday",
+        "min_temp": 3.15,
+        "max_temp": 7.78,
+        "weather_desc": "heavy intensity rain",
+        "weather_icon": "10d"
+    },
+    {
+        "date": "Sunday",
+        "min_temp": -0.13,
+        "max_temp": 7.18,
+        "weather_desc": "few clouds",
+        "weather_icon": "02d"
+    },
+    {
+        "date": "Monday",
+        "min_temp": 1.12,
+        "max_temp": 10.63,
+        "weather_desc": "clear sky",
+        "weather_icon": "01d"
+    },
+    {
+        "date": "Tuesday",
+        "min_temp": 1.95,
+        "max_temp": 10.34,
+        "weather_desc": "overcast clouds",
+        "weather_icon": "04d"
+    },
+    {
+        "date": "Wednesday",
+        "min_temp": 5.38,
+        "max_temp": 8.98,
+        "weather_desc": "light rain",
+        "weather_icon": "10d"
+    },
+    {
+        "date": "Thursday",
+        "min_temp": 7.55,
+        "max_temp": 10.46,
+        "weather_desc": "light rain",
+        "weather_icon": "10d"
+    },
+    {
+        "date": "Friday",
+        "min_temp": 4.72,
+        "max_temp": 10.96,
+        "weather_desc": "few clouds",
+        "weather_icon": "02d"
+    },
+    {
+        "date": "Saturday",
+        "min_temp": 4.39,
+        "max_temp": 13.8,
+        "weather_desc": "broken clouds",
+        "weather_icon": "04d"
+    }
+]
