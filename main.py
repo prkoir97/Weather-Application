@@ -8,6 +8,7 @@ from PIL import Image, ImageTk
 import io
 import numpy as np
 import json
+from config import api_key
 
 
 def get_weather():
